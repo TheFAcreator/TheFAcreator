@@ -4,4 +4,4 @@
 - 😄 Pronouns: he/him
 - I already have 4 games on my mind and I'm looking forward to creating them!
 - I have been working on the design and idea of a game for 6 years.
-- I have experience in (ordered from most to least): C#, HTML.
+- I have experience in (ordered from most to least): C#, Regular Expressions, SQL, HTML.
