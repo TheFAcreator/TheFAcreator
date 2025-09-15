@@ -15,5 +15,3 @@
 ```
 Console.WriteLine("It's the FA creator!");
 ```
-
-> "Nothing is fatal, step in and show what you've got"
