@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheFAcreator
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Unity, C# (already mastered but still more could be learnt), HTML.
+- 🌱 I’m currently learning Unity, C# (already mastered but still more could be learnt).
 - 😄 Pronouns: he/him
 ---
 - I already have 4 games on my mind and I'm looking forward to creating them!
